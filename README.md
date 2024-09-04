@@ -1,5 +1,5 @@
 # juanscc
-em busca de mais aprendizado
+em busca de um futuro
 boa tarde
 meu nome e juan
 sou aluno alura
